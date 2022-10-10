@@ -7,7 +7,7 @@ Full stack developer. Learning and sharing along the way.
 
 💬 Ask me about React, Design Systems, Architecture , LitHTML, Micro FrontEnds, WebComponents and open components
 
-📫 How to reach me: linked-in @christopherpeterjeyaraj twitter @chrispeterjeyaj
+📫 How to reach me: linked-in [@christopherpeterjeyaraj](https://www.linkedin.com/in/christopherpeterjeyaraj/) twitter [@chrispeterjeyaj](https://twitter.com/chrispeterjeyaj)
 
 😄 Pronouns: He/Him
 
