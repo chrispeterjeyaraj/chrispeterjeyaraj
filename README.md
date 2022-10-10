@@ -6,17 +6,15 @@ Full stack developer. Learning and sharing along the way.
 
 💬 Ask me about UI frameworks, Design Systems, Architecture , LitHTML, Micro FrontEnds and Services, WebComponents and open components
    
-   ####Learning
-    -Docker
-    -Kubernetes
-    -GoLang
-    -Python
-    
-    ####Getting hands dirty on
+   #### Learning
+    - Docker
+    - Kubernetes
+    - GoLang
+    - Python
     - MongoDB
     - Postgre
-    -MySQL
-
+    - MySQL
+    
 📫 How to reach me: linked-in [@christopherpeterjeyaraj](https://www.linkedin.com/in/christopherpeterjeyaraj/) twitter [@chrispeterjeyaj](https://twitter.com/chrispeterjeyaj)
 
 😄 Pronouns: He/Him
