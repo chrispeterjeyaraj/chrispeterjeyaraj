@@ -16,7 +16,11 @@ Currently I am an engineer on the [Cisco Intersight](https://intersight.com) pro
 
 <center>
 
-[![Chris's GitHub stats](https://github-readme-stats.vercel.app/api?username=chrispeterjeyaraj&count_private=true&show_icons=true&theme=dark)
+[![Chris's GitHub stats](https://github-readme-stats.vercel.app/api?username=chrispeterjeyaraj&count_private=true&show_icons=true&theme=tokyonight)
 ](https://github.com/chrispeterjeyaraj/github-readme-stats)
 
+</center>
+
+<center>
+   <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=chrispeterjeyaraj&langs_count=8&layout=compact&theme=tokyonight&hide_border=true" />
 </center>
